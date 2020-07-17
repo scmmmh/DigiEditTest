@@ -1,1 +1,1 @@
-# This is just a test
+# Test Repository for the Digital Edition Editor
