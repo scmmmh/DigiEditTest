@@ -5,3 +5,7 @@ Mainly this is used to test the GitHub branch, pull request, and webhook integra
 ## Development
 
 No setup required for development.
+
+## Deployment
+
+Simply checkout the code and enjoy.
