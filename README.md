@@ -11,3 +11,9 @@ The code will automatically be checked before accepting pull requests.
 ## Deployment
 
 Simply checkout the code and enjoy.
+
+## Changes
+
+### DEV
+
+* **Update**: Added changes information
