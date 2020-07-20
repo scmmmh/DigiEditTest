@@ -6,6 +6,8 @@ Mainly this is used to test the GitHub branch, pull request, and webhook integra
 
 No setup required for development.
 
+The code will automatically be checked before accepting pull requests.
+
 ## Deployment
 
 Simply checkout the code and enjoy.
