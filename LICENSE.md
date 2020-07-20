@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Mark M Hall
+Copyright (c) 2020 Mark Michael Hall
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
