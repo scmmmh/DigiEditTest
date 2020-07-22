@@ -17,3 +17,7 @@ Simply checkout the code and enjoy.
 ### DEV
 
 * **Update**: Added changes information
+
+### 0.1.0
+
+* **New**: First version
