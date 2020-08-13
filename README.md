@@ -4,7 +4,7 @@ This is used to test the GitHub branch, pull request, and webhook integrations.
 
 ## Development
 
-No setup required for development.
+Required to set local forwarding for webhooks.
 
 The code will automatically be checked before accepting pull requests.
 
