@@ -16,6 +16,8 @@ Simply checkout the code and enjoy.
 
 ### DEV
 
+### 0.2.0
+
 * **Update**: Added changes information
 
 ### 0.1.0
